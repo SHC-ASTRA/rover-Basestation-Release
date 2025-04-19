@@ -41,5 +41,6 @@
         "uah",
         "venv"
     ],
-    "files.autoSave": "onFocusChange"
+    "files.autoSave": "onFocusChange",
+    "cmake.ignoreCMakeListsMissing": true
 }
